@@ -1,3 +1,4 @@
+
 let n = 20;
 let list = new Array;
 for (let i = 2; i <= n; i++) {
@@ -11,4 +12,3 @@ for (let i = 2; i <= n; i++) {
   }
 }
 console.log(list);
-//lesson1
