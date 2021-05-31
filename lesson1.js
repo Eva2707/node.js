@@ -11,3 +11,4 @@ for (let i = 2; i <= n; i++) {
   }
 }
 console.log(list);
+//lesson1
